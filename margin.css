@@ -51,6 +51,7 @@ h1 {
     width: fit-content;
     background-color:  aquamarine ;
     margin-bottom: 20px;
+    display: inline-flex;
 }
 .inline .block2 {
     width: fit-content;
