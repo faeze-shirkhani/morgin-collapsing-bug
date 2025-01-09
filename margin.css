@@ -51,10 +51,27 @@ h1 {
     width: fit-content;
     background-color:  aquamarine ;
     margin-bottom: 20px;
-    display: inline-flex;
+    display: inline-block;
 }
 .inline .block2 {
     width: fit-content;
     background-color: rgb(60, 150, 120);
     margin-top: 20px; 
+}
+.inline2 {
+    margin-bottom: 30px;
+    border: 1px solid #ccc;
+    padding: 10px; 
+}
+.inline2 .block {
+    width: fit-content;
+    background-color:  deeppink ;
+    margin-right: 20px;
+    display: inline-block;
+}
+.inline2 .block2 {
+    width: fit-content;
+    background-color: rgb(220, 101, 164);
+    margin-left: 20px; 
+    display: inline-block;
 }
